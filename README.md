@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Ece! 👋
 
-<!--
-**ecetuanahezer/ecetuanahezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior data scientist passionate about data analysis, machine learning, and building cool projects with Python.
 
-Here are some ideas to get you started:
+#### 🛠️ Tech Stack
+- **Languages**: Python, SQL, R, Java
+- **Data**: pandas, NumPy, pydantic, scikit-learn, matplotlib, seaborn
+- **Visualization**: Power BI, Grafana, Excel
+- **Databases**: Oracle SQL, PostgreSQL
+- **Tools**: Jupyter Notebook, VS Code, Git, Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📂 Projects
+- 📊 Telco Customer Churn Prediction
+- 🎯 Customer Segmentation with KMeans
+- 🎬 MovieLens Ratings Analysis
+
+#### 🌱 Currently Learning
+- LLMs, feature selection
+- Model deployment and MLOps basics
+
+#### 📫 How to reach me
+- Email: ecethzr@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ecehezer/

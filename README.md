@@ -7,7 +7,7 @@ I'm a junior data scientist passionate about data analysis, machine learning, an
 - **Data**: pandas, NumPy, pydantic, scikit-learn, matplotlib, seaborn
 - **Visualization**: Power BI, Grafana, Excel
 - **Databases**: Oracle SQL, PostgreSQL
-- **Tools**: Jupyter Notebook, VS Code, Git, Azure DevOps
+- **Tools**: Jupyter Notebook, VS Code, Git, Azure DevOps, Jira
 
 #### 📂 Projects
 - 📊 Telco Customer Churn Prediction
@@ -19,5 +19,4 @@ I'm a junior data scientist passionate about data analysis, machine learning, an
 - Model deployment and MLOps basics
 
 #### 📫 How to reach me
-- Email: ecethzr@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ecehezer/

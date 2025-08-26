@@ -1,6 +1,6 @@
 ## Hi there, I'm Ece! 👋
 
-I'm a junior data scientist passionate about data analysis, machine learning, and building cool projects with Python.
+I'm a data scientist passionate about data analysis, machine learning, and building cool projects with Python.
 
 #### 🛠️ Tech Stack
 - **Languages**: Python, SQL, R, Java

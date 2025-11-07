@@ -13,6 +13,10 @@ I'm a data scientist passionate about data analysis, machine learning, and build
 - 📊 Telco Customer Churn Prediction
 - 🎯 Customer Segmentation with KMeans
 - 🎬 MovieLens Ratings Analysis
+- 🎮 Bomber Quest (Java Game)
+- 🫒 Turkey's Olive Oil Data Analysis (Bachelor Project)
+- 💸 InvestmentApp – Personal finance & portfolio tracking
+- 📢 Marketing Campaign Analysis
 
 #### 🌱 Currently Learning
 - LLMs, feature selection

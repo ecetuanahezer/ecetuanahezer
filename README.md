@@ -1,6 +1,6 @@
 ## Hi there, I'm Ece! 👋
 
-I'm a data scientist passionate about data analysis, machine learning, and building cool projects with Python.
+I'm a Data Scientist and analytical thinker passionate about transforming raw data into actionable business insights. Focused on data analysis, machine learning model development, and building cool projects with Python and visualization tools.
 
 #### 🛠️ Tech Stack
 - **Languages**: Python, SQL, R, Java
